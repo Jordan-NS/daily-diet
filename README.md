@@ -1,10 +1,14 @@
 # Daily Diet
 
-<img src="./assets/icon.png" width="100" alt="Daily Diet Logo" />
+<img width="1920" alt="Cover" src="https://github.com/user-attachments/assets/09c15edc-13e0-429c-a8db-a1b82ee33c6e" />
+
 
 Um aplicativo móvel para monitoramento de dieta que permite registrar refeições, classificá-las como dentro ou fora da dieta e acompanhar seu progresso através de estatísticas.
+Desenvolvido na trilha React-Native da <a href="https://www.rocketseat.com.br/" style="text-decoration: none !important;">
+  <strong>RocketSeat</strong> 🚀
+</a>
 
-## 🍽️ Funcionalidades
+## ✅ Funcionalidades
 
 - **Registro de Refeições**: Adicione suas refeições com nome, descrição, data, hora e status (dentro/fora da dieta).
 - **Visualização Detalhada**: Veja informações detalhadas sobre cada refeição registrada.
@@ -77,17 +81,9 @@ src/
 └── theme/            # Definições de tema (cores, fontes)
 ```
 
-## 📷 Screenshots
-
-*Adicione screenshots do seu aplicativo aqui*
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 👨‍💻 Desenvolvedor
-
-*Seu nome aqui* - [Seu perfil no GitHub](https://github.com/seu-usuario)
 
 ---
 
